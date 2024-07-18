@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workspaces\\GamesPlatform.NewVegas\\Fleck\\Fleck.csproj": {}
+  },
+  "projects": {
+    "D:\\Workspaces\\GamesPlatform.NewVegas\\Fleck\\Fleck.csproj": {
+      "version": "0.0.0.1-local",
+      "restore": {
+        "projectUniqueName": "D:\\Workspaces\\GamesPlatform.NewVegas\\Fleck\\Fleck.csproj",
+        "projectName": "Fleck",
+        "projectPath": "D:\\Workspaces\\GamesPlatform.NewVegas\\Fleck\\Fleck.csproj",
+        "packagesPath": "C:\\Users\\mikeS\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspaces\\GamesPlatform.NewVegas\\Fleck\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\mikeS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
